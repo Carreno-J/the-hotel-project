@@ -1,0 +1,104 @@
+/* 
+- DARK GREEN - 1C2A2C
+-FOOTER DARK- 24282B
+font-family: 'raleway', sans-serif
+400 500 800
+
+
+*/
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+/* images */
+
+.bg-image {
+    background-color: #1C2A2C;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-sydney { background-image: url('images/map-sydney.png'); }
+
+.bg-lamp { background-image: url('images/the-bunker-1.jpg'); }
+
+.bg-chairs { background-image: url('images/the-bunker-2.jpg'); }
+
+.bg-hall { background-image: url('images/the-bunker-3.jpg'); }
+
+.bg-lounge { background-image: url('images/the-bunker-4.jpg'); }
+
+.bg-roof { background-image: url('images/the-bunker-5.jpg'); }
+
+.bg-map { background-image: url('images/the-bunker-6.png'); }
+
+.bg-sheet {background-image: url('images/the-bunker-7.jpg');}
+
+
+
+
+
+
+
+/* UTILITY CLASSES */
+
+/*----------------------------- Padding Utility Classes--------------------------- */ 
+.padded-sm { padding: 2.5%; }
+.padded-md { padding: 5%;   }
+.padded-lg { padding: 10%;  }
+
+.padded-05 { padding: 0.5rem; }
+.padded-1 { padding: 1rem; }
+.padded-2 { padding: 2rem; }
+
+.padded-t { padding-top: 5%; }
+.padded-b { padding-bottom: 5%; }
+.padded-l { padding-left: 5%; }
+.padded-r { padding-right: 5%; }
+
+.padded-tb { padding-top: 5%; padding-bottom: 5%; }
+.padded-lr { padding-left: 5%; padding-right: 5%; }
+
+.padded-t-1 { padding-top: 1rem; }
+.padded-b-1 { padding-bottom: 1rem; }
+.padded-l-1 { padding-left: 1rem; }
+.padded-r-1 { padding-right: 1rem; }
+
+.padded-t-2 { padding-top: 2rem; }
+.padded-b-2 { padding-bottom: 2rem; }
+.padded-l-2 { padding-left: 2rem; }
+.padded-r-2 { padding-right: 2rem; }
+
+.padded-t-0 { padding-top: 0; }
+.padded-b-0 { padding-bottom: 0; }
+.padded-l-0 { padding-left: 0; }
+.padded-r-0 { padding-right: 0; }
+
+/* ----------------------------Margin Utility Classes-------------------------- */ 
+
+.margin-t { margin-top: 5%; }
+.margin-b { margin-bottom: 5%; }
+.margin-l { margin-left: 5%; }
+.margin-r { margin-right: 5%; }
+
+.margin-t-1 { margin-top: 1rem; }
+.margin-b-1 { margin-bottom: 1rem; }
+.margin-l-1 { margin-left: 1rem; }
+.margin-r-1 { margin-right: 1rem; }
+
+.margin-t-2 { margin-top: 2rem; }
+.margin-b-2 { margin-bottom: 2rem; }
+.margin-l-2 { margin-left: 2rem; }
+.margin-r-2 { margin-right: 2rem; }
+
+.margin-t-0 { margin-top: 0; }
+.margin-b-0 { margin-bottom: 0; }
+.margin-l-0 { margin-left: 0; }
+.margin-r-0 { margin-right: 0; }
+
+.margin-tb { margin-top: 5%; margin-bottom: 5%; }
+.margin-lr { margin-left: 5%; margin-right: 5%; }
