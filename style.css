@@ -51,9 +51,17 @@ p {
 
 .bg-roof { background-image: url('images/the-bunker-5.jpg'); }
 
+.bg-roof-flip { background-image: url('images/the-bunker-5-flip.jpg'); }
+
 .bg-map { background-image: url('images/the-bunker-6.png'); }
 
 .bg-sheet {background-image: url('images/the-bunker-7.jpg');}
+
+.img-flip {
+        /* flip horizontally */
+        transform: scaleX(-1);
+    }
+    
 
 
 /* TYPOGRAPHY */
@@ -73,7 +81,24 @@ h1 {
 
  .social-banner {
     background-position: top;
-    background-position: 50% 19%;
+    background-position: 50% 21%;
+ }
+
+ nav a { text-decoration: none; }
+
+ a { 
+    color: inherit;
+     margin: 1rem; 
+    }
+
+ a :hover{
+ color: #1C2A2C;
+ }
+
+ .fa-brands {
+    font-size: 1.5rem;
+    padding-left: 0.5rem ;
+
  }
 
 
