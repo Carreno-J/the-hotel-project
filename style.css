@@ -76,15 +76,14 @@ h1 {
     text-align: center;
  }
 
- h4 {
-    font-size: 6rem;
- }
 
  .light-text { color: white; }
 
  h2 { font-size: 3rem; }
 
  h3 { font-size: 3rem; }
+
+  h4 { font-size: 1rem; }
 
 
  .social-banner {
@@ -109,8 +108,22 @@ h1 {
 
  }
 
+ /* footer styles */
 
+footer h2 {
+    font-size: 6rem;
+}
 
+footer a { font-weight: 800;}
+
+footer a {
+    margin: 0%;
+}
+
+.copy-write  {
+    text-align: center;
+    opacity: 75%;
+}
  
 
 
