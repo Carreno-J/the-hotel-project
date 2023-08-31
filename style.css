@@ -57,7 +57,10 @@ footer {
 
 .bg-roof-flip { background-image: url('images/the-bunker-5-flip.jpg'); }
 
-.bg-map { background-image: url('images/the-bunker-6.png'); }
+.bg-map { 
+    background-image: url('images/the-bunker-6.png');
+    background-position: 86% 50%;
+    } 
 
 .bg-sheet {background-image: url('images/the-bunker-7.jpg');}
 
@@ -120,7 +123,7 @@ footer a {
     margin: 0%;
 }
 
-.copy-write  {
+.copy-right  {
     text-align: center;
     opacity: 75%;
 }
