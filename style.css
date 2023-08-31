@@ -28,6 +28,10 @@ p {
     margin-bottom: 0.8rem;
 }
 
+footer {
+  background-color: #24282B;  
+}
+
 /* images */
 
 .bg-image {
@@ -72,6 +76,10 @@ h1 {
     text-align: center;
  }
 
+ h4 {
+    font-size: 6rem;
+ }
+
  .light-text { color: white; }
 
  h2 { font-size: 3rem; }
@@ -100,6 +108,11 @@ h1 {
     padding-left: 0.5rem ;
 
  }
+
+
+
+ 
+
 
 
 /* UTILITY CLASSES */
