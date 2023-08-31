@@ -211,9 +211,9 @@ footer a {
 .margin-lr { margin-left: 5%; margin-right: 5%; }
 
 
-/* Medium devices (landscape tablets, 768px and up) */
+/* Medium devices (landscape tablets, 768px) */
 @media (max-width: 48em) {
-    
+
     .hide-sm {display: none;}
     .flex-flip-sm { flex-direction: column-reverse;}
     
